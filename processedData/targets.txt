@@ -1,1 +1,3 @@
-['tau_J0', 'tau_J1', 'tau_J2', 'tau_J3', 'tau_J4', 'tau_J5', 'tau_J6', 'q0', 'q1', 'q2', 'q3', 'q4', 'q5', 'q6', 'dq0', 'dq1', 'dq2', 'dq3', 'dq4', 'dq5', 'dq6', 'etau_J0', 'etau_J1', 'etau_J2', 'etau_J3', 'etau_J4', 'etau_J5', 'etau_J6', 'e0', 'e1', 'e2', 'e3', 'e4', 'e5', 'e6', 'de0', 'de1', 'de2', 'de3', 'de4', 'de5', 'de6']
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0b53e9ea561f740a238625a0ad449a9f86d65a65c96ebc4b2252b9dfc563161
+size 329
