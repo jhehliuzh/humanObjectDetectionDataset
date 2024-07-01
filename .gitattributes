@@ -1,2 +1,4 @@
 rawData/** filter=lfs diff=lfs merge=lfs -text
 testData/** filter=lfs diff=lfs merge=lfs -text
+processedData/** filter=lfs diff=lfs merge=lfs -text
+static_dynamic/** filter=lfs diff=lfs merge=lfs -text
